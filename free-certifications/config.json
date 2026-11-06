@@ -1,0 +1,50 @@
+{
+  "role": "AI Solutions Engineers and applied AI engineers",
+  "tracks": [
+    [
+      "AI and Generative AI Foundations",
+      "Week 1",
+      "Core AI and generative AI vocabulary for customer conversations."
+    ],
+    [
+      "Building LLM Applications",
+      "Week 1-3",
+      "Building LLM applications: APIs, prompting, structured output and app patterns."
+    ],
+    [
+      "RAG, Data and Vector Search",
+      "Week 3-4",
+      "RAG, embeddings and vector search for document-grounded solutions."
+    ],
+    [
+      "Agents, MCP and Orchestration",
+      "Week 4-6",
+      "Agents, tools and the Model Context Protocol."
+    ],
+    [
+      "Cloud AI Platforms",
+      "Week 6-7",
+      "Hands-on cloud AI credentials for the platforms your customers buy."
+    ],
+    [
+      "Data Platforms and Databases",
+      "Week 7",
+      "Data platforms and databases you will integrate with in POCs."
+    ],
+    [
+      "Responsible AI, Security and Governance",
+      "Week 8",
+      "Security, privacy and responsible AI for passing customer security reviews."
+    ],
+    [
+      "Machine Learning and Deep Learning Foundations",
+      "Week 8-9",
+      "Machine learning foundations to explain model behavior and limits."
+    ],
+    [
+      "AI Strategy and Leadership",
+      "Week 9-10",
+      "AI strategy and adoption: the business side of every deal."
+    ]
+  ]
+}

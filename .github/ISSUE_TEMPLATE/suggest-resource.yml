@@ -1,0 +1,23 @@
+name: Suggest a resource
+description: Propose a repository, course, certification or article for the list.
+labels: ["suggestion"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Canonical URL of the resource.
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Which section of the README should it go in?
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it awesome?
+      description: One or two sentences on why it helps people prepare for this role.
+    validations:
+      required: true

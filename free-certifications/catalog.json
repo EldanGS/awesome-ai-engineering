@@ -1,0 +1,1058 @@
+[
+  {
+    "title": "Deploying Claude Enterprise with confidence: The five decisions that shape your rollout",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Create business value with AI",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/create-business-value/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Leverage AI tools and resources for your business",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Scale AI in your organization",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/scale-ai/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "AI Leadership",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/ai-leadership-kaf7k",
+    "credential": "badge",
+    "minutes": 180,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Scope AI Solutions",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/scope-ai-solutions-kjplw",
+    "credential": "badge",
+    "minutes": 30,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Change Management for AI Implementation",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/change-management-for-ai-implementation",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Data + AI + CRM: Quick Look",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/ai-data-crm-quick-look",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Generative AI for Organizations",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/generative-ai-for-organizations",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI Strategy and Leadership"
+  },
+  {
+    "title": "Generative AI Course and Free Exam",
+    "provider": "Alibaba Cloud Academy",
+    "url": "https://www.alibabacloud.com/en/academy/aigc",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI Fluency for builders",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/ai-fluency-for-builders",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI Fluency: Framework and foundations",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/ai-fluency-framework-foundations",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI capabilities and limitations",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/ai-capabilities-and-limitations",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Claude 101",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-101",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introducing AI",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0105EN+v1",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introduction to Generative AI",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/536",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Data Visualization",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/data-visualization",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Intro to Programming",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intro-to-programming",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Explore AI basics",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/explore-ai-basics/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Explore AI for All",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/explore-ai-for-all/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Explore Generative AI",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/explore-generative-ai/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introduction to AI concepts",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introduction to AI speech concepts",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/introduction-ai-speech/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introduction to natural language processing concepts",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/introduction-language/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Uncover new data insights with AI",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/uncover-new-data-insights-ai/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI for All: From Basics to GenAI Practice",
+    "provider": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139849",
+    "credential": "certificate",
+    "minutes": 199,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI Foundations",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/ai-foundations-dnq5w",
+    "credential": "badge",
+    "minutes": 75,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Applied AI Foundations",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/applied-ai-foundations-szsmv",
+    "credential": "badge",
+    "minutes": 90,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Building Confidence in AI with SAP",
+    "provider": "SAP Learning",
+    "url": "https://learning.sap.com/courses/building-confidence-in-ai-with-sap",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introducing AI Fundamentals",
+    "provider": "SAP Learning",
+    "url": "https://learning.sap.com/courses/introducing-ai-fundamentals",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "AI Fluency Fundamentals",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/ai-fluency-fundamentals",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Actionable Headless Use Cases",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/headless-360-use-cases-in-action",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Artificial Intelligence Fundamentals",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/artificial-intelligence-fundamentals",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Generative AI Basics",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/generative-ai-basics",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Introduction to AIforce",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/salesforce-headless-360-quick-look",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Natural Language Processing Basics",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/natural-language-processing-basics",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Reasoning in Artificial Intelligence",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "Building effective human-agent teams (beta)",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/building-effective-human-agent-teams",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Claude Code 101",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-code-101",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Claude Code in action",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-code-in-action",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to Claude Cowork",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/introduction-to-claude-cowork",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to Model Context Protocol",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/introduction-to-model-context-protocol",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to agent skills",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/introduction-to-agent-skills",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to subagents",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/introduction-to-subagents",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Model Context Protocol: Advanced Topics",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/model-context-protocol-advanced-topics",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to Agentic AI",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0146EN+v1",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to generative AI and agents",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agents and Workflows",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/agents-and-workflows-y0qoc",
+    "credential": "badge",
+    "minutes": 90,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Get Started with Codex",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/get-started-with-codex-jkhsq",
+    "credential": "badge",
+    "minutes": 80,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Discovering Agentic AI",
+    "provider": "SAP Learning",
+    "url": "https://learning.sap.com/courses/discovering-agentic-ai",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Discovering High-Value Opportunities for Agentic AI",
+    "provider": "SAP Learning",
+    "url": "https://learning.sap.com/courses/discovering-high-value-opportunities-for-agentic-ai",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agentforce Basics",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/einstein-copilot-basics",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agentforce Key Components: Quick Look",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-agents-quick-look",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agentforce Testing Tools and Strategies",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-testing-tools-and-strategies",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agentforce for Service",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-service-agent-quick-look",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Agentforce: Agent Planning",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Autonomous Agents",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/autonomous-agents",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Grounding an Agent with Data",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/grounding-an-agent-with-data",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to Agentforce",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/introduction-to-agentforce",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Programmatic Instructions in Agentforce",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/programmatic-instructions-in-agentforce",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Build Reliable Agentic AI Applications",
+    "provider": "Simplilearn SkillUp",
+    "url": "https://www.simplilearn.com/build-agentic-ai-skillup",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Introduction to Agentic AI & LLM Architectures",
+    "provider": "Simplilearn SkillUp",
+    "url": "https://www.simplilearn.com/introduction-to-agentic-ai-and-llm-architectures-skillup",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Building with the Claude API",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/building-with-the-claude-api",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Claude Platform 101",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-platform-101",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Claude with Amazon Bedrock",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-with-amazon-bedrock",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Claude with Google Cloud's Vertex AI",
+    "provider": "Anthropic",
+    "url": "https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Build Your Own Chatbot",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CB0101EN+v1",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Building AI Powered Chatbots Without Programming",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CB0103EN+v1_Coursera",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Developing AI Applications with Python and Flask",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0224EN+v1_Coursera",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Python for Data Science, AI & Development",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0101EN+v1_Coursera",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Introduction to Large Language Models",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/539",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Python",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/python",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Optimize AI Application Performance",
+    "provider": "OpenAI Academy",
+    "url": "https://academy.openai.com/public/courses/optimize-ai-application-performance-1k50h",
+    "credential": "badge",
+    "minutes": 30,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Large Language Models",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/large-language-models",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Model Fine-Tuning",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/model-fine-tuning",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Prompt Builder Basics",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/prompt-builder-basics",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Prompt Fundamentals",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/prompt-fundamentals",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Deep Learning Fundamentals",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Machine Learning with Python",
+    "provider": "IBM Cognitive Class",
+    "url": "https://cognitiveclass.ai/courses/course-v1:BDU+ML0101EN+v4",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Computer Vision",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/computer-vision",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Intermediate Machine Learning",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intermediate-machine-learning",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Intro to Deep Learning",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Intro to Machine Learning",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Machine Learning Explainability",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/machine-learning-explainability",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Time Series",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/time-series",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Introduction to computer vision concepts",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Machine Learning and Deep Learning Foundations"
+  },
+  {
+    "title": "Advanced SQL",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/advanced-sql",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Data Cleaning",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/data-cleaning",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Feature Engineering",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/feature-engineering",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Intro to SQL",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intro-to-sql",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Pandas",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Introduction to retrieval-augmented generation concepts",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Data Fundamentals for AI",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/data-fundamentals-for-ai",
+    "credential": "badge",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Advanced RAG Techniques",
+    "provider": "Simplilearn SkillUp",
+    "url": "https://www.simplilearn.com/advanced-rag-techniques-course-skillup",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Responsible AI: Applying AI Principles with Google Cloud",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/388",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Security in the World of AI",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/1146",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Intro to AI Ethics",
+    "provider": "Kaggle Learn (Google)",
+    "url": "https://www.kaggle.com/learn/intro-to-ai-ethics",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Embrace responsible AI principles and practices",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Explore responsible AI",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/responsible-ai/",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Putting AI Ethics into Practice at SAP",
+    "provider": "SAP Learning",
+    "url": "https://learning.sap.com/courses/putting-ai-ethics-into-practice-at-sap",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Data Bias Recognition and Prevention in AI",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/data-bias-recognition-and-prevention",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Responsible Creation of Artificial Intelligence",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/responsible-creation-of-artificial-intelligence",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Secure and Trusted Headless Foundation",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/secure-and-trusted-headless-foundation",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "The Agentforce Trust Layer",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Trusted Agentic AI",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/content/learn/modules/trusted-agentic-ai",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Applied Skills: Develop a Generative AI Chat App Using the Microsoft Foundry SDK",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/build-a-generative-ai-chat-app/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Applied Skills: Develop an agent with integrated tools",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/develop-an-agent-with-integrated-tools/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Integrate model context protocol tools with agents in Microsoft Foundry",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/integrate-model-context-protocol-tools-with-agents-in-microsoft-foundry/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Get started developing agents in Microsoft Foundry",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/get-started-developing-agents-in-microsoft-foundry/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Enhance agents with autonomous capabilities",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/enhance-agents-with-autonomous-capabilities/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Build an agent in Microsoft Copilot Studio",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/build-an-agent-in-microsoft-copilot-studio/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Generate reports with AI research agents",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/generate-reports-with-ai-research-agents/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Streamline business workflows with AI chat",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/streamline-business-workflows-with-ai-chat/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "Applied Skills: Secure AI solutions in the cloud",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/secure-ai-solutions-in-the-cloud/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Data Platforms and Databases"
+  },
+  {
+    "title": "Applied Skills: Accelerate AI-assisted development by using GitHub Copilot",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/accelerate-app-development-by-using-github-copilot/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Applied Skills: Resolve GitHub issues by using GitHub Copilot",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/resolve-github-issues-by-using-github-copilot/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Applied Skills: Protect information in Microsoft 365 Copilot by using Microsoft Purview",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/protect-information-in-microsoft-365-copilot-by-using-microsoft-purview/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "Applied Skills: Deploy cloud-native apps using Azure Container Apps",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-cloud-native-apps-using-azure-container-apps/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Cloud AI Platforms"
+  },
+  {
+    "title": "Applied Skills: Implement a Real-Time Intelligence solution with Microsoft Fabric",
+    "provider": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-real-time-intelligence-solution-with-microsoft-fabric/",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Data Platforms and Databases"
+  },
+  {
+    "title": "AWS Agentic AI Demonstrated (microcredential)",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/learn/GTGKXBWUGU/aws-agentic-ai-demonstrated/SJK9ZKVCYU",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  },
+  {
+    "title": "AWS MLOps Demonstrated (microcredential)",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/learn/JWNE2TPE6J/aws-mlops-demonstrated/FV55WQPV8G",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Cloud AI Platforms"
+  },
+  {
+    "title": "AWS Securing Agent Identities Demonstrated (microcredential)",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/learn/Z8M87YZWXB/aws-securing-agent-identities-demonstrated/9ZRC3U51YT",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Responsible AI, Security and Governance"
+  },
+  {
+    "title": "AWS Databases for Agentic AI Demonstrated (microcredential)",
+    "provider": "AWS Skill Builder",
+    "url": "https://skillbuilder.aws/learn/2MHE4K7STM/aws-databases-for-agentic-ai-demonstrated/NYCNC3CU6X",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Data Platforms and Databases"
+  },
+  {
+    "title": "Skill badge: Prompt Design in Agent Platform",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/976",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Skill badge: Explore Generative AI in Agent Platform",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/959",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Cloud AI Platforms"
+  },
+  {
+    "title": "Skill badge: Develop Gen AI Apps with Gemini and Streamlit",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/978",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "Skill badge: Inspect Rich Documents with Gemini Multimodality and Multimodal RAG",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/981",
+    "credential": "badge",
+    "minutes": null,
+    "track": "RAG, Data and Vector Search"
+  },
+  {
+    "title": "Skill badge: Build Real World AI Applications with Gemini and Imagen",
+    "provider": "Google Skills",
+    "url": "https://www.skills.google/course_templates/1076",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Building LLM Applications"
+  },
+  {
+    "title": "IBM SkillsBuild: Artificial Intelligence Fundamentals",
+    "provider": "IBM SkillsBuild",
+    "url": "https://www.credly.com/org/ibm-skillsbuild/badge/artificial-intelligence-fundamentals",
+    "credential": "badge",
+    "minutes": null,
+    "track": "AI and Generative AI Foundations"
+  },
+  {
+    "title": "OCI AI Foundations Associate",
+    "provider": "Oracle University",
+    "url": "https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate/147781",
+    "credential": "certificate",
+    "minutes": null,
+    "track": "Cloud AI Platforms"
+  },
+  {
+    "title": "Agentblazer status (Champion)",
+    "provider": "Salesforce Trailhead",
+    "url": "https://trailhead.salesforce.com/agentblazer",
+    "credential": "badge",
+    "minutes": null,
+    "track": "Agents, MCP and Orchestration"
+  }
+]
