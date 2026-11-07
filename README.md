@@ -320,6 +320,7 @@ Free courses, learning paths and official tutorials from FAANG, Big Tech and the
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Open-source framework for real-time voice and multimodal agents.
 - [LiveKit Agents](https://github.com/livekit/agents) - Framework for building real-time voice and video AI agents.
 - [Browser Use](https://github.com/browser-use/browser-use) - Python library that lets AI agents operate a web browser.
+- [agent-qa](https://vostride.com) - Plain-English web, Android and iOS testing via CLI and local MCP, with persistent memidex memory and validated self-improvement.
 - [E2B](https://github.com/e2b-dev/E2B) - Secure cloud sandboxes for running agent-generated code.
 
 ### Local and Self-Hosted Models
